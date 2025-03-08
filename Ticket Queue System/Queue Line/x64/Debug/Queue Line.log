@@ -1,0 +1,29 @@
+﻿  Queue Line.cpp
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(43,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(48,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(181,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(326,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(360,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(396,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(447,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsString.h(532,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\Queue Line\clsQueueLine.h(91,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Queue%20Line.cpp')
+  
+  Queue Line.vcxproj -> C:\Users\USER\Desktop\Abu-Hadhud\Course 13\Ticket Queue System\x64\Debug\Queue Line.exe
